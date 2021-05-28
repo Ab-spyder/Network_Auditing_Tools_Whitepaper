@@ -1,4 +1,4 @@
-# Network_Auditing_Tools_Whitepaper
+# Network Auditing Tools Whitepaper
 ## Capstone Project (FALL 2020)
 ### Project Sponsor: Raytheon Technologies
 Whitepaper to identify which network auditing solution is best and compare their capabilities
